@@ -1,13 +1,4 @@
 2busy2check is a short python app made to show the priority queue status of the 2b2t server.
 It uses LolRiTTeR's 2b2t api (https://api.2b2t.dev) and has a simple resizeable GUI.
 
-You need to have the "tk" and "requests" libraries installed, to do that simply type in cmd:
-"pip install tk"
-"pip install requests"
-
-Features:
-You can open the main.py file without building it
-
-If you'd like the code to run on every Windows startup, simply copy the .bat file shortcut into your startup folder
-(the startup folder can be found by pressing winkey+r and typing "shell:startup")
-The .bat file will then run the main.py code on every startup
+I built the python file into an executable so you don't need to install any libraries beforehand!
